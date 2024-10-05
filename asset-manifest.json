@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ride-along-form/static/css/main.c637dab7.css",
+    "main.js": "/ride-along-form/static/js/main.d3f2f0a0.js",
+    "static/js/239.eaf54141.chunk.js": "/ride-along-form/static/js/239.eaf54141.chunk.js",
+    "static/js/213.cda9915e.chunk.js": "/ride-along-form/static/js/213.cda9915e.chunk.js",
+    "static/js/732.78df54d4.chunk.js": "/ride-along-form/static/js/732.78df54d4.chunk.js",
+    "static/js/453.d19a1685.chunk.js": "/ride-along-form/static/js/453.d19a1685.chunk.js",
+    "static/media/mainPage.jpg": "/ride-along-form/static/media/mainPage.3b92ac3499602ff4adb3.jpg",
+    "static/media/waterMark.png": "/ride-along-form/static/media/waterMark.e762e7a63f0bf7ac22e0.png",
+    "static/media/ReDark.png": "/ride-along-form/static/media/ReDark.9fb760e38d812bff00a2.png",
+    "index.html": "/ride-along-form/index.html",
+    "main.c637dab7.css.map": "/ride-along-form/static/css/main.c637dab7.css.map",
+    "main.d3f2f0a0.js.map": "/ride-along-form/static/js/main.d3f2f0a0.js.map",
+    "239.eaf54141.chunk.js.map": "/ride-along-form/static/js/239.eaf54141.chunk.js.map",
+    "213.cda9915e.chunk.js.map": "/ride-along-form/static/js/213.cda9915e.chunk.js.map",
+    "732.78df54d4.chunk.js.map": "/ride-along-form/static/js/732.78df54d4.chunk.js.map",
+    "453.d19a1685.chunk.js.map": "/ride-along-form/static/js/453.d19a1685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c637dab7.css",
+    "static/js/main.d3f2f0a0.js"
+  ]
+}
