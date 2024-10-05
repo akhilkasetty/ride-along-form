@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ride-along-form/static/css/main.c637dab7.css",
+    "main.css": "/ride-along-form/static/css/main.db694fbe.css",
     "main.js": "/ride-along-form/static/js/main.907c6be7.js",
     "static/js/239.eaf54141.chunk.js": "/ride-along-form/static/js/239.eaf54141.chunk.js",
     "static/js/213.cda9915e.chunk.js": "/ride-along-form/static/js/213.cda9915e.chunk.js",
@@ -10,7 +10,7 @@
     "static/media/waterMark.png": "/ride-along-form/static/media/waterMark.e762e7a63f0bf7ac22e0.png",
     "static/media/ReDark.png": "/ride-along-form/static/media/ReDark.9fb760e38d812bff00a2.png",
     "index.html": "/ride-along-form/index.html",
-    "main.c637dab7.css.map": "/ride-along-form/static/css/main.c637dab7.css.map",
+    "main.db694fbe.css.map": "/ride-along-form/static/css/main.db694fbe.css.map",
     "main.907c6be7.js.map": "/ride-along-form/static/js/main.907c6be7.js.map",
     "239.eaf54141.chunk.js.map": "/ride-along-form/static/js/239.eaf54141.chunk.js.map",
     "213.cda9915e.chunk.js.map": "/ride-along-form/static/js/213.cda9915e.chunk.js.map",
@@ -18,7 +18,7 @@
     "453.d19a1685.chunk.js.map": "/ride-along-form/static/js/453.d19a1685.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c637dab7.css",
+    "static/css/main.db694fbe.css",
     "static/js/main.907c6be7.js"
   ]
 }
